@@ -1,6 +1,6 @@
 import random
 print("***Rock, Paper, Scissors***")
-
+#wojtek_pidor
 counter_human = 0
 counter_comp = 0
 
